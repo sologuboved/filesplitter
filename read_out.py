@@ -22,6 +22,6 @@ def read_out(fname_out, fname_in, lim=1000):
             if end:
                 break
 
-    
+
 if __name__ == '__main__':
     read_out(FNAME_OUT, FNAME_IN)
