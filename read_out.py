@@ -1,4 +1,4 @@
-SOURCE_FNAME = 'true_events.txt'
+SOURCE_FNAME = 'true_events_ctrl_c.txt'
 TARGET_FNAME = 'true_events{}.txt'
 
 

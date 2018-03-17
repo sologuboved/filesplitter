@@ -1,4 +1,3 @@
-# import requests
 import requests.auth
 from scrt import *
 
